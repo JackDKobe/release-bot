@@ -240,3 +240,6 @@ If you are interested in making contribution to release-bot project, please read
 ## Logo design
 
 Created by `Marián Mrva` - [@surfer19](https://github.com/surfer19)
+
+
+<!-- fix-issue-183: Improve Contributor's Guide -->

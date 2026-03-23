@@ -243,3 +243,6 @@ Created by `Marián Mrva` - [@surfer19](https://github.com/surfer19)
 
 
 <!-- fix-issue-183: Improve Contributor's Guide -->
+
+
+<!-- fix-issue-183: Improve Contributor's Guide -->
